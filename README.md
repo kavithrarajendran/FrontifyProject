@@ -10,5 +10,4 @@ Tools Required:
 •	Java 16 (I used java 16 and please make sure to config build path in your IDE)
 •	Selenium maven dependency 
 •	TestNG maven dependency 
-![image](https://github.com/kavithrarajendran/FrontifyProject/assets/134153407/49098274-ff4d-435c-b547-6cfa8770915d)
 
